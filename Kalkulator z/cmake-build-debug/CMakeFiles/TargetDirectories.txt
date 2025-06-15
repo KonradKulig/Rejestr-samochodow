@@ -1,0 +1,3 @@
+C:/Users/student/CLionProjects/Kalkulator z/cmake-build-debug/CMakeFiles/Kalkulator_z.dir
+C:/Users/student/CLionProjects/Kalkulator z/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/CLionProjects/Kalkulator z/cmake-build-debug/CMakeFiles/rebuild_cache.dir
